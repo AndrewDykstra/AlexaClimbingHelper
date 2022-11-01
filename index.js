@@ -122,7 +122,7 @@ const LaunchHandler = {
     return request.type === 'LaunchRequest';
   },
   handle(handlerInput) {
-    const speakOutput = "Welcome to Jason's climbing grade converter. You can ask me to convert V grades to Font, and visa versa."
+    const speakOutput = "Welcome to Andrew's climbing grade converter. You can ask me to convert V grades to Font, and visa versa."
     return handlerInput.responseBuilder
       .speak(speakOutput)
       .getResponse();

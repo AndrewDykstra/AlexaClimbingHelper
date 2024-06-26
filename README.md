@@ -1,8 +1,8 @@
 # AlexaClimbingGradeConverter
-• Developed an Alexa Skill to efficiently convert American and European climbing grades and give flash briefings on climbing news.
-• Utilized AWS Lambda, a pay-as-you-go service, to remotely host serverless code which reduced costs by 50% compared to EC2.
-• Obtained climbing-related news from News API, supporting briefings on headlines, sources, or entire articles.
-• Remotely hosted serverless code allowed access to this Alexa skill 24/7 from any Alexa device anywhere.
+• Developed an Alexa Skill to efficiently convert American and European climbing grades and give flash briefings on climbing news.  
+• Utilized AWS Lambda, a pay-as-you-go service, to remotely host serverless code which reduced costs by 50% compared to EC2.  
+• Obtained climbing-related news from News API, supporting briefings on headlines, sources, or entire articles.  
+• Remotely hosted serverless code allowed access to this Alexa skill 24/7 from any Alexa device anywhere.  
 
 An AWS Lambda (Server-less) program I wrote to convert climbing grades at ease between the V-Grade system and the Font Grade system.
 
